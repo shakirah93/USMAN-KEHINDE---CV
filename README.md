@@ -11,24 +11,24 @@ PERSONAL DATA
 Name:                                                                         			Usman Sakirat Kehinde
 Date of Birth:                                                                			23rd April, 1993
 Place of Birth:                                                               			Ikirun, Osun State, Nigeria
-Sex:                                                                              	Female
-Marital Status:                                                              			  Single
-State of Origin:                                                             			  Osun State
-Nationality:                                                                   			Nigerian
+Sex:                                                                             Female
+Marital Status:                                                              			 Single
+State of Origin:                                                             			 Osun State
+Nationality:                                                                   		Nigerian
 
 INSTITUTIONS ATTENDED WITH DATES 
-● Ladoke Akintola University of Technology, Ogbomoso, Oyo State, Nigeria            2012 – till date
+● Ladoke Akintola University of Technology, Ogbomoso, Oyo State, Nigeria         2012 – till date
 
-● Quality College, Obaagun, Osun State, Nigeria					                            2004 – 2010
+● Quality College, Obaagun, Osun State, Nigeria					                             2004 – 2010
 
 ● Bethel Nursery/Primary School, Ikirun, Osun State, Nigeria			                  1999 – 2004
 
 ACADEMIC QUALIFICATIONS OBTAINED WITH DATES
-● Bachelor of Technology Computer Science (in view) – CGPA(4.40 of 5) 		          2017
+● Bachelor of Technology Computer Science (in view) – CGPA(4.40 of 5) 		         2017
 
-● West African Examination Certificate (WAEC)		                                    2010
+● West African Examination Certificate (WAEC)		                                  2010
 
-● Primary School Leaving Certificate					         	                            2004
+● Primary School Leaving Certificate					         	                              2004
 
 TRAINING AND PROFESSIONAL DEVELOPMENT
 
